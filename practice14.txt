@@ -1,2 +1,2 @@
 演習１４　コンフリクトについて
-main branch
+develop branch
